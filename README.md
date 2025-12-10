@@ -16,3 +16,7 @@ It achieves real-time performance on a single GPU with low memory usage while ma
 
 ## Performance
 - Runs at 30 FPS on a laptop GPU  
+
+## Code
+The main implementation will be released soon.  
+**Code coming soon.**
